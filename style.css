@@ -1,0 +1,103 @@
+body {
+    background: #BDDEFF;
+}   
+
+th {
+	font-size: 1.2em;
+        text-align: center;
+	/*font-weight: bold;*/
+        padding: .2em;
+	color: #1B9D95;
+	font-family: "Rajdhani", Arial, Helvetica, sans-serif;
+	margin-left: 20px;
+	margin-bottom: -.2em;
+}
+td {
+	font-size: 1.4em;
+	/*font-weight: bold;*/
+        text-align: center;
+        padding: .2em;
+	color: #3083FF;
+	font-family: "Rajdhani", Arial, Helvetica, sans-serif;
+	margin-left: 20px;
+	margin-bottom: .2em;     
+}
+h2 {
+	font-size: 2.2em;
+	/*font-weight: bold;*/
+        text-align: center;
+	color: #B80000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        padding-left:20px;
+	margin-left: 20px;
+	margin-bottom: .2em;
+}
+h3 {
+        font-size: .8em;
+        text-align: left;
+        color: #1B9D95;
+        /*color: #3083FF;*/
+        font-family: "Rajdhani", Arial, Helvetica, sans-serif;
+        padding-left: 20px;
+        margin-left: 20px;
+        margin-bottom: .2em;
+}
+h4 {
+	font-size: .6em;
+	color: #3E955B;
+	font-family: "Rajdhani", Arial, Helvetica, sans-serif;
+        text-align: left;
+        padding-left:20px;
+	margin-left: 20px;
+	margin-bottom: .2em;
+        
+}
+a {
+	font-size: 1.26em;
+	color:#B80000;
+	font-family: "Rajdhani", Arial, Helvetica, sans-serif;
+        text-align: left;
+        padding-left:20px;
+	margin-left: 10px;
+	margin-bottom: .2em;
+        
+}
+p {
+	font-size: .8em;
+	color: #3E955B;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        padding-left:20px;
+	margin-left: 20px;
+	margin-bottom: .2em;
+}
+
+img {
+    	font-size: .6em;
+        text-align: center;
+	/*font-weight: bold;*/
+        padding: .2em;
+	color: #3083FF;
+	font-family: "Rajdhani", Arial, Helvetica, sans-serif;
+        padding-left:20px;
+	/*margin-left: 20px;*/
+	margin-bottom: .2em;
+}
+span {
+	font-size: 1.4em;
+	/*font-weight: bold;*/
+	color: #B80000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        padding-left:20px;
+	margin-left: 20px;
+	margin-bottom: .2em;
+}
+ul li {
+	font-size: 1.0em;
+        list-style:square;
+	/*font-weight: bold;*/
+	color: #3083FF;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        padding-left:20px;
+	margin-left: 20px;
+	margin-bottom: .2em;
+}
